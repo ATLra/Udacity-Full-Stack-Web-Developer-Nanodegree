@@ -1,7 +1,7 @@
 # Fresh Tomatoes
 By Rosie Agasarkisian
 
-**Fresh Tomatoes** is the name of the Movie Trailer Website Project for Udacity's Full Stack Web Developer Nanodegree
+**Fresh Tomatoes** is the name of the Movie Trailer Website Project for Udacity's Full Stack Web Developer Nanodegree.
 
 ## Purpose
 This is Project One in Udacity's Full Stack Web Developer Nanodegree. As per the requirements, this project uses Python and html to display information about a number of movies, including data such as: trailers, taglines, posters, and ratings.
