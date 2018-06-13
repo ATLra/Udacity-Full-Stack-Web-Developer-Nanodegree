@@ -8,7 +8,7 @@ trainspotting = media.Movie("Trainspotting",
                             "https://youtu.be/8LuxOYIpu-I")
 heathers = media.Movie("Heathers",
                        "R",
-                       "Best friends, social trends and occasional murder.",    # NOQA  
+                       "Best friends, social trends and occasional murder.",    # NOQA
                        "https://bit.ly/2sKhdTw",
                        "https://www.youtube.com/watch?v=v5gHF3FNr78")
 metropolis = media.Movie("Metropolis",
@@ -25,12 +25,13 @@ glengarry_glen_ross = media.Movie("Glengarry Glen Ross",
                                   "R",
                                   "An examination of the machinations behind the scenes at a real estate office",   # NOQA
                                   "https://bit.ly/2MfkT7N",
-                                  "https://www.youtube.com/watch?v=QgAU2RJHfvE")
+                                  "https://www.youtube.com/watch?v=QgAU2RJHfvE")    # NOQA
 taxi_driver = media.Movie("Taxi Driver",
                           "R",
                           "Disturbed loner Travis Bickle takes a job as a New York City cabbie",    # NOQA
                           "https://bit.ly/2JsNSr0",
                           "https://www.youtube.com/watch?v=sLpMx8_TYOo")
 
-movies = [trainspotting, heathers, metropolis, seven_brides, glengarry_glen_ross, taxi_driver]
+movies = [trainspotting, heathers, metropolis, seven_brides,
+          glengarry_glen_ross, taxi_driver]
 fresh_tomatoes.open_movies_page(movies)
